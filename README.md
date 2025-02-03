@@ -17,21 +17,20 @@
 
 ### 1. AI 對話內容轉換
 1. 在 AI 對話窗口中複製 Markdown 格式的內容
-   ![copy md from chatgpt](pic/copy_md_from_chatgpt.png)
+   <img src="pic/copy_md_from_chatgpt.png" width="200"/>
 
-2. 點擊app，進行一鍵轉換
-   ![app image](pic/app_image.png)
+2. 點擊app,進行一鍵轉換
+   <img src="pic/app_image.png" width="100"/>
 
 3. 在 XMind 中直接貼上 (Ctrl+V)
-   ![data in xmind](pic/data_in_xmind.png)
-   ![data in xmind all](pic/data_in_xmind__all.png)
+   <img src="pic/data_in_xmind.png" width="200"/>
+   <img src="pic/data_in_xmind__all.png" width="200"/>
 
 ### 2. notebookLm 或是任意網頁內容的轉換
 1. 使用 Chrome 擴展 [Copy as Markdown](https://chromewebstore.google.com/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn)
 2. 選擇網頁內容，右鍵選擇 "Copy selection as markdown"
-   ![copy as markdown](pic/copy_as_markdown.png)
-   
-3. 使用方式同上述步驟
+   <img src="pic/copy_as_markdown.png" width="200"/>
+    
 
 ## 🔄 工作流程
 1. 複製 Markdown 格式內容
@@ -39,7 +38,7 @@
 3. 在 XMind 中貼上
 4. 開始進行視覺化整理與協作
 
-## 📝 版本記錄
+## �� 版本記錄
 當前版本：v1.2
 
  
